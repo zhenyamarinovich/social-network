@@ -1,0 +1,39 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+  margin: 25px;
+  background-image: url("../../assets/images/avatar.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.profileWrapper {
+  margin: 20px 0;
+  background-color: white;
+}
+
+.profile {
+  height: 250px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  h1 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 25px 0;
+  }
+}
+
+.subTitle {
+  color: grey;
+  margin-right: 5px;
+  width: 30%;
+}
+
+.info {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.defenition {
+  color: #6687b8;
+}

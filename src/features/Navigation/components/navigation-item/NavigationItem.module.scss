@@ -1,0 +1,25 @@
+.link {
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: #6687b8;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  color: black;
+  margin-left: 15px;
+}
+
+.li {
+  height: 30px;
+}
+
+.li:hover {
+  background-color: #e2e5e5;
+}
+
+.container {
+  margin-left: 10px;
+}
